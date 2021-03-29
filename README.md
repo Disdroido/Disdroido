@@ -8,11 +8,13 @@
 <br>
 <br>
 
-<a href="https://www.w3.org/html/" target="_blank"><img align="center" alt="HTML5" width="26px" src="html.png"></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img align="center" alt="CSS3" width="26px" src="css.png" /></a>
-<a href="https://www.python.org" target="_blank"> <img align="center" alt="Python" width="26px" src="php.svg"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img align="center" alt="git" width="26px" src="git.svg"/> </a>
-<img align="center" alt="GitHub" width="26px" src="https://avatars.githubusercontent.com/u/28430127?v=4" />
+<p align="center">
+    <a href="https://www.w3.org/html/" target="_blank"><img alt="HTML5" width="35px" src="html.png"></a>
+    <a href="https://www.w3schools.com/css/" target="_blank"><img alt="CSS3" width="35px" src="css.png" /></a>
+    <a href="https://www.php.net" target="_blank"> <img alt="Python" width="35px" src="php.svg"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img alt="git" width="35px" src="git.svg"/> </a>
+    <a href="https://github.com/Disdroido" target="_blank"><img alt="GitHub" width="35px" src="https://avatars.githubusercontent.com/u/28430127?v=4" /> </a>
+</p>
 <br>
 <br>
 <br>

@@ -42,10 +42,10 @@
 <br>
 
 <p align="center">
-    <a href="https://www.instagram.com/ethan.worth1/" target="_blank"><img alt="Instagram" width="35px" src="https://www.flaticon.com/svg/vstatic/svg/174/174855.svg?token=exp=1617061032~hmac=79a48f8aef109f6c4ab6bff532fca213"></a>
-    <a href="https://www.facebook.com/profile.php?id=100013562087751" target="_blank"><img alt="Facebook" width="35px" src="https://www.flaticon.com/svg/vstatic/svg/1312/1312139.svg?token=exp=1617061157~hmac=cf636bc659001c0836cda61928c6c5de" /></a>
+    <a href="https://www.instagram.com/ethan.worth1/" target="_blank"><img alt="Instagram" width="35px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1617062342~hmac=dea775d21acd17b2271642fde0dcaa52"></a>
+    <a href="https://www.facebook.com/profile.php?id=100013562087751" target="_blank"><img alt="Facebook" width="35px" src="https://www.flaticon.com/svg/vstatic/svg/1312/1312139.svg?token=exp=1617062369~hmac=d2118543053698b798196c354481f26f" /></a>
     <a href="https://dribbble.com/EthanWorth" target="_blank"> <img alt="Dribble" width="35px" src="https://www.flaticon.com/svg/vstatic/svg/1532/1532541.svg?token=exp=1617061560~hmac=8ccccf1c2946453a74339e78a32e229b"/> </a>
-    <a href="https://twitter.com/Ethan63111987" target="_blank"> <img alt="git" width="35px" src="https://www.flaticon.com/svg/vstatic/svg/145/145812.svg?token=exp=1617062048~hmac=7a3e2b0bf6586f88b329eb9d49a63fd1"/> </a>
+    <a href="https://twitter.com/Ethan63111987" target="_blank"> <img alt="Twitter" width="35px" src="https://www.flaticon.com/svg/vstatic/svg/145/145812.svg?token=exp=1617062048~hmac=7a3e2b0bf6586f88b329eb9d49a63fd1"/> </a>
 </p>
 
 <br>

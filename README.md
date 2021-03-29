@@ -28,10 +28,10 @@
 <br>
 
 <p align="center">
-    <a href="https://www.w3.org/html/" target="_blank"><img alt="HTML5" width="35px" src="html.png"></a>
-    <a href="https://www.w3schools.com/css/" target="_blank"><img alt="CSS3" width="35px" src="css.png" /></a>
-    <a href="https://www.php.net" target="_blank"> <img alt="Python" width="35px" src="php.svg"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img alt="git" width="35px" src="git.svg"/> </a>
+    <a href="https://www.w3.org/html/" target="_blank"><img alt="HTML5" width="35px" src="https://www.flaticon.com/svg/vstatic/svg/1051/1051277.svg?token=exp=1617062434~hmac=215a68c4eab29cbe5fa41c5a31c27bcf"></a>
+    <a href="https://www.w3schools.com/css/" target="_blank"><img alt="CSS3" width="35px" src="https://www.flaticon.com/svg/vstatic/svg/732/732190.svg?token=exp=1617062461~hmac=6be10ba41fc1a32f4126ff9fa7f06b98" /></a>
+    <a href="https://www.php.net" target="_blank"> <img alt="Python" width="35px" src="https://www.flaticon.com/svg/vstatic/svg/919/919830.svg?token=exp=1617062496~hmac=70f4a2d43c91a483d035f5ddd9c5cc51"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img alt="git" width="35px" src="https://garygregory.files.wordpress.com/2016/11/git_logo.png"/> </a>
     <a href="https://github.com/Disdroido" target="_blank"><img alt="GitHub" width="35px" src="https://avatars.githubusercontent.com/u/28430127?v=4" /> </a>
 </p>
 
